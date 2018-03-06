@@ -5,8 +5,7 @@ Generated on 2018-03-06 using
 
 ## Description
 
-This is an example readme file.
-Describe your site/app here.
+New site to easily manage static site for passionfruit
 
 ## Technologies used
 
