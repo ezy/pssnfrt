@@ -4,6 +4,8 @@
 
 {% block content %}
 
+<!-- Source credit - original js code on https://codepen.io/ge1doot/pen/LkdOwj -->
+
 <canvas></canvas>
 
 <code class="version">v2.0.1</code>
