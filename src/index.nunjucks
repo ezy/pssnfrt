@@ -1,0 +1,10 @@
+{% extends '_layouts/base.nunjucks' %}
+
+{% import "_modules/link/link.nunjucks" as link %}
+
+{% block content %}
+
+<canvas></canvas>
+
+<code class="version">v2.0.1</code>
+{% endblock %}
